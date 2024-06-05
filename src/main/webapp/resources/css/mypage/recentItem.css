@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+.product-list {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .product-item {
+        width: 180px;
+        margin: 10px;
+        text-align: center;
+    }
+    .product-item img {
+        width: 180px;
+        height: 180px;
+    }
+    .product-name {
+        display: block;
+        margin-top: 10px;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .product-details {
+        margin-top: 10px;
+    }
+    .discount-rate {
+        color: red;
+        font-weight: bold;
+    }
+    .discount-price {
+        color: green;
+        font-weight: bold;
+    }
+    .original-price {
+        text-decoration: line-through;
+        color: grey;
+    }
