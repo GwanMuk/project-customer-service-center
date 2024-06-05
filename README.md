@@ -1,6 +1,6 @@
-# 8Dak-Project-customer-service-center
-
 # 팀 프로젝트 기획
+
+#### 8Dak-Project-customer-service-center
 
 프로젝트 목적
 프로젝트 목적: 수업 내용을 바탕으로 스프링 레거시를 활용한 개발 경험을 쌓고 웹 쇼핑몰의 흐름에 대한 학습
