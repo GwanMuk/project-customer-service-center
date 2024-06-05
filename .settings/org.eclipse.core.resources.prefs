@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/unknown/controller/BenefitsReplyController.java=UTF-8
+encoding//src/main/java/com/unknown/controller/QNAReplyController.java=UTF-8
+encoding//src/main/java/com/unknown/model/ReviewReplyVO.java=UTF-8
+encoding//src/main/java/com/unknown/service/ReviewReplyService.java=UTF-8
+encoding//src/main/java/com/unknown/service/ReviewReplyServiceImpl.java=UTF-8
+encoding//src/main/java/com/unknown/util/FileUploadManager.java=UTF-8
